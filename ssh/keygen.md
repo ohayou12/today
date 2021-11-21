@@ -3,8 +3,9 @@
 ## 1、检查是否已拥有 SSH Key
 
 执行以下命令，如果有`id_rsa.pub`或者`id_dsa.pub`文件，则表示已拥有 SSH Key，公钥可任意提供给第三方，私钥请勿外泄
-+ 公钥：`id_rsa.pub`或`id_dsa.pub`
-+ 私钥：`id_rsa`或`id_dsa` 
+
+- 公钥：`id_rsa.pub`或`id_dsa.pub`
+- 私钥：`id_rsa`或`id_dsa`
 
 ```sh
 ls -al ~/.ssh
