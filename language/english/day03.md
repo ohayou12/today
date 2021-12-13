@@ -4,3 +4,4 @@
 | the            | art. | [ðə , ði]        | 这个；值已提到或易领会到的人或事物               |
 | initialize     | vt.  | [ɪˈnɪʃəlaɪz]     | 初始化（计算机程序或系统）；预置；格式化（磁盘） |
 | initialization | vt.  | [ɪˌnɪʃələˈzeɪʃn] | 起始；初始化；安置初始值                         |
+| recycle        | vt.  | [ˌriːˈsaɪkl]     | 回收利用；循环利用                               |
