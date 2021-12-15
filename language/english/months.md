@@ -1,0 +1,14 @@
+| Word      | Type | USA          | Description |
+| --------- | ---- | ------------ | ----------- |
+| January   | n.   | [ˈdʒænjueri] | 一月        |
+| February  | n.   | [ˈfebrueri]  | 二月        |
+| March     | n.   | [mɑːrtʃ]     | 三月        |
+| April     | n.   | [ˈeɪprəl]    | 四月        |
+| May       | n.   | [meɪ]        | 五月        |
+| June      | n.   | [dʒuːn]      | 六月        |
+| July      | n.   | [dʒuˈlaɪ]    | 七月        |
+| August    | n.   | [ˈɔːɡəst]    | 八月        |
+| September | n.   | [sepˈtembər] | 九月        |
+| October   | n.   | [ɑːkˈtoʊbər] | 十月        |
+| November  | n.   | [noʊˈvembər] | 十一月      |
+| December  | n.   | [dɪˈsembər]  | 十二月      |

@@ -5,3 +5,5 @@
 | initialize     | vt.  | [ɪˈnɪʃəlaɪz]     | 初始化（计算机程序或系统）；预置；格式化（磁盘） |
 | initialization | vt.  | [ɪˌnɪʃələˈzeɪʃn] | 起始；初始化；安置初始值                         |
 | recycle        | vt.  | [ˌriːˈsaɪkl]     | 回收利用；循环利用                               |
+| emotion        | n.   | [ɪˈmoʊʃn]        | 强烈的感情;激情;情感;情绪                        |
+| declare        | v.   | [dɪˈkler]        | 声明；宣布；宣告；公布；表明                     |
