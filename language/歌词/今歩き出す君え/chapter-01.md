@@ -7,7 +7,7 @@ described in heart a map.
 | describe  | vt.   | 描述；形容；把...称为；做...运动；画出...图形 | [dɪˈskraɪb]  |
 | described | v.    | describe 的过去式                             | [dɪˈskraɪbd] |
 | in        | prev. | 在里面；在...中                               | [ɪn]         |
-| heart     | n.    | 心、心脏；内心                                  | [hɑːrt]      |
+| heart     | n.    | 心、心脏；内心                                | [hɑːrt]      |
 | a         | art.  | 一(个)；每一（个）                            | [ə]          |
 | map       | n.    | 地图                                          | [mæp]        |
 
